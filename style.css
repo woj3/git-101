@@ -1,0 +1,13 @@
+body {
+	margin: 50px;
+	font-family: Helvetica;
+}
+
+#map {
+	width: 400px;
+	height: auto;
+}
+
+#container {
+	text-align: center;
+}
